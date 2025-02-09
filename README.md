@@ -1,4 +1,4 @@
-# Team Project 888 Bot
+# Keitokun Waitlist Bot
 
 ## Overview
 
@@ -42,13 +42,3 @@ This project is a bot that performs pre-registration using temporary emails. It 
     ```sh
     node index.js
     ```
-
-2. Follow the prompts to enter your username and the number of emails you want to register.
-
-## Code Explanation
-
-### Suppress Warnings
-
-```js
-process.removeAllListeners('warning');
-process.env.NODE_NO_WARNINGS = '1';
