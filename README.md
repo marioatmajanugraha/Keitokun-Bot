@@ -26,7 +26,7 @@ This project is a bot that performs pre-registration using temporary emails. It 
 
     ```sh
     git clone https://github.com/marioatmajanugraha/Keitokun-Bot.git
-    cd team-project-888
+    cd Keitokun-Bot
     ```
 
 2. Install the dependencies:
