@@ -1,5 +1,7 @@
 # Keitokun Waitlist Bot
 
+![Keitokun Waitlist](https://github.com/user-attachments/assets/3d26a3c4-26a4-4d89-ae85-beb83c8547cb)
+
 ## Overview
 
 This project is a bot that performs pre-registration using temporary emails. It uses various libraries for different functionalities including displaying banners, handling proxies, generating random user agents, and more.
