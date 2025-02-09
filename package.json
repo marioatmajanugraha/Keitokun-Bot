@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cfonts": "^3.3.0",
+    "chalk": "^4.1.2",
+    "faker": "^6.6.6",
+    "p-queue": "^8.1.0",
+    "temp-mail": "^2.0.0",
+    "temp-mailbox": "^0.1.1",
+    "user-agents": "^1.1.444",
+    "ws": "^8.18.0"
+  }
+}
